@@ -1,0 +1,27 @@
+{
+  "name": "prueba-automatizacion",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.51.0",
+    "@serenity-js/serenity-bdd": "^3.31.12",
+    "@types/jest": "^29.5.14",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.13.10",
+    "jest": "^29.7.0",
+    "mocha": "^11.1.0",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@serenity-js/assertions": "^3.31.12",
+    "@serenity-js/core": "^3.31.12",
+    "@serenity-js/playwright": "^3.31.12",
+    "@serenity-js/rest": "^3.31.12",
+    "playwright": "^1.51.0"
+  }
+}
